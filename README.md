@@ -30,9 +30,7 @@
   <a href="https://linkedin.com/in/nishat-tasnim-tonni-645621422" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.leetcode.com/nishattasnim043" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
+ 
 </p>
 
 ---
